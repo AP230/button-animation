@@ -28,7 +28,7 @@
     outline: none;
 }
 
-.btn-1 {
+.btn-1:hover {
     box-shadow: inset 300px 0 0 0 #f9e506;
     cursor: pointer;
     color: #000;
